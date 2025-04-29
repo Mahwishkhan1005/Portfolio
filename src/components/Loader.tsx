@@ -88,7 +88,7 @@ const Loader = () => {
         {/* Profile photo */}
         <div className="relative w-32 h-32 rounded-full overflow-hidden border-2 border-blue-500/50 z-10">
           <img
-            src="/images/profile.jpg"
+            src="./images/profile.jpg"
             alt="Mahwish Khan"
             className="w-full h-full object-cover"
           />
