@@ -74,7 +74,7 @@ const Hero = () => {
                 <div className="absolute -inset-0.5 bg-gradient-to-r from-blue-600 to-blue-400 rounded-full opacity-75 group-hover:opacity-100 blur transition duration-1000 group-hover:duration-200 animate-tilt"></div>
                 <div className="relative w-48 h-48 rounded-full overflow-hidden border-2 border-white/10 backdrop-blur-sm">
                   <img
-                    src="./images/profile.jpg"
+                    src={`${import.meta.env.BASE_URL}images/profile.jpg`}
                     alt="Mahwish Khan"
                     className="w-full h-full object-cover"
                   />
