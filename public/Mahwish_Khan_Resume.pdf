@@ -1,0 +1,155 @@
+%PDF-1.4
+1 0 obj
+<< /Title (Mahwish Khan - Resume)
+/Author (Mahwish Khan)
+/Creator (Sample PDF)
+/Producer (Sample PDF)
+/CreationDate (D:20230515000000Z)
+>>
+endobj
+2 0 obj
+<< /Type /Catalog
+/Pages 3 0 R
+>>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [4 0 R]
+/Count 1
+>>
+endobj
+4 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Resources << /Font << /F1 5 0 R /F2 6 0 R /F3 7 0 R >>
+/ProcSet [/PDF /Text] >>
+/MediaBox [0 0 612 792]
+/Contents 8 0 R
+>>
+endobj
+5 0 obj
+<< /Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+6 0 obj
+<< /Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+7 0 obj
+<< /Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+>>
+endobj
+8 0 obj
+<< /Length 3213 >>
+stream
+BT
+/F2 26 Tf
+50 740 Td
+(Mahwish Khan) Tj
+/F1 12 Tf
+0 -25 Td
+(Computer Science Student | Aspiring Data Scientist & Developer) Tj
+0 -20 Td
+(mahwishkhan1005@gmail.com | +91-9142668648) Tj
+0 -20 Td
+(www.linkedin.com/in/mahwishkhan1005 | github.com/Mahwishkhan1005) Tj
+/F2 16 Tf
+-50 -40 Td
+(EDUCATION) Tj
+/F1 12 Tf
+10 -20 Td
+(Bachelor of Technology in Computer Science) Tj
+0 -20 Td
+(Lovely Professional University, Punjab, India) Tj
+0 -20 Td
+(2021 - 2025 \(Expected\)) Tj
+0 -20 Td
+(CGPA: 8.5/10) Tj
+/F2 16 Tf
+-10 -30 Td
+(SKILLS) Tj
+/F1 12 Tf
+10 -20 Td
+(Programming Languages: C++, Python, Java, JavaScript) Tj
+0 -20 Td
+(Data Science: Pandas, NumPy, Data Visualization, Basic Machine Learning) Tj
+0 -20 Td
+(Tools: Git, VS Code, Excel, Tableau, Microsoft Office Suite) Tj
+0 -20 Td
+(Soft Skills: Problem Solving, Team Collaboration, Technical Writing, Leadership) Tj
+/F2 16 Tf
+-10 -30 Td
+(PROJECTS) Tj
+/F2 14 Tf
+10 -20 Td
+(Library Management System \(C++\)) Tj
+/F1 12 Tf
+0 -20 Td
+(- Developed a comprehensive C++ application to manage library operations) Tj
+0 -20 Td
+(- Implemented book issuance, returns, and catalog management features) Tj
+0 -20 Td
+(- Utilized object-oriented design principles and file handling for data persistence) Tj
+/F2 14 Tf
+0 -30 Td
+(Heart Attack Data Dashboard \(Excel\)) Tj
+/F1 12 Tf
+0 -20 Td
+(- Created an interactive Excel dashboard visualizing heart attack prediction data) Tj
+0 -20 Td
+(- Performed statistical analysis to identify key risk factors) Tj
+0 -20 Td
+(- Designed visualization charts for healthcare professionals) Tj
+/F2 14 Tf
+0 -30 Td
+(Random Story Teller \(Python\)) Tj
+/F1 12 Tf
+0 -20 Td
+(- Built a Python application that generates unique stories based on user inputs) Tj
+0 -20 Td
+(- Implemented natural language processing techniques for coherent narratives) Tj
+0 -20 Td
+(- Utilized random generation algorithms for creative text production) Tj
+/F2 16 Tf
+-10 -30 Td
+(CERTIFICATIONS) Tj
+/F1 12 Tf
+10 -20 Td
+(- Data Analysis with Tableau - Coursera) Tj
+0 -20 Td
+(- Supervised Machine Learning: Regression and Classification - Coursera) Tj
+0 -20 Td
+(- The Bits and Bytes of Computer Networking - Coursera) Tj
+0 -20 Td
+(- Leadership Through Social Influence - Coursera) Tj
+ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000146 00000 n 
+0000000195 00000 n 
+0000000252 00000 n 
+0000000410 00000 n 
+0000000507 00000 n 
+0000000609 00000 n 
+0000000714 00000 n 
+trailer
+<< /Size 9
+/Root 2 0 R
+/Info 1 0 R
+>>
+startxref
+3979
+%%EOF
